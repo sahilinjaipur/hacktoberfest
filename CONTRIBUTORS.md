@@ -400,6 +400,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Customer Success Manager
 - GitHub: [RedBeardAZ] (https://github.com/redbeardaz)
 
+#### Name: [Sahil] (https://github.com/sahilinjaipur)
+- Place: galta gate jaipur
+- Bio: Student of bennett university
+- GitHub: [sahilinajipur] (https://github.com/sahilinjaipur)
+
 #### Name: [Brandon Fadairo](https://github.com/BFadairo)
 - Place: Columbus, Ohio
 - Bio: A guy looking to change career fields
